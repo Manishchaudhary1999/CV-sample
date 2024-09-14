@@ -1,1 +1,1 @@
-https://github.com/Manishchaudhary1999/CV-sample/tree/main
+https://manishchaudhary1999.github.io/CV-sample/
